@@ -3,6 +3,7 @@
 # Aliases
 alias gcl='git clone'
 alias ga='git add'
+alias gaa='git add -A'
 alias gall='git add .'
 alias g='git'
 alias get='git'
